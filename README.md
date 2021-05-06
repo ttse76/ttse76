@@ -1,16 +1,29 @@
-### Hi there 👋
+# Timothy M. Tse
+[LinkedIn](https://www.linkedin.com/in/timothy-tse-723269103/) | [My Site](https://timothymtse.com/)
 
-<!--
-**ttse76/ttse76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience
 
-Here are some ideas to get you started:
+### Quadpay (March 2021 - Present)
+*Software Engineer II, Risk Squad*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Responsible for fraud and risk analysis services
+- Built Python based API to handle calls for the risk analysis service
+- Created unit tests within C# and k6 environments
+
+### Datacor (September 2017 - March 2021)
+*Software Engineer, Datacor CRM*
+
+- Member of the CRM team developing and maintaining Datacor CRM
+  - Built React based module to give a sales analysis visualization
+  - Various enhancements to Java backend primarily in the sales calucations
+- Worked on chemical database site Chemformation
+- Assisted customers with technical support and training
+
+## Education
+
+### Rensselaer Polytechnic Institute (2013-2017)
+*B.S. Computer Science*
+- Member of the Tau Nu chapter of Phi Gamma Delta
+
+### Montclair Kimberley Academy
+*High School*
