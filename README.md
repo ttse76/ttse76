@@ -24,6 +24,7 @@
 ### Rensselaer Polytechnic Institute (2013-2017)
 *B.S. Computer Science*
 - Member of the Tau Nu chapter of Phi Gamma Delta
+- Programming Mentor for Computer Science 1, assisting students with labs and assignments
 
 ### Montclair Kimberley Academy
 *High School*
