@@ -4,11 +4,10 @@
 ## Experience
 
 ### Quadpay (March 2021 - Present)
-*Software Engineer II, Risk Squad*
+*Software Engineer II, Risk*
 
-- Responsible for fraud and risk analysis services
-- Built Python based API to handle calls for the risk analysis service
-- Created unit tests within C# and k6 environments
+- Team responsible for development and maintenance of risk analysis services
+- Built Python based API for risk analysis
 
 ### Datacor (September 2017 - March 2021)
 *Software Engineer, Datacor CRM*
