@@ -25,5 +25,5 @@
 - Member of the Tau Nu chapter of Phi Gamma Delta
 - Programming Mentor for Computer Science 1, assisting students with labs and assignments
 
-### Montclair Kimberley Academy
+### Montclair Kimberley Academy (2009-2013)
 *High School*
