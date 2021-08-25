@@ -3,9 +3,11 @@
 
 ## Experience
 
-### Zip (*f.k.a Quadpay*) (March 2021 - Present)
-*Software Engineer II, Risk*
+### Zip (March 2021 - Present)
+*Software Engineer II, Risk Decisioning*
 
+- Formerly known as Quadpay
+  - Merged August 20201
 - Team responsible for development and maintenance of risk analysis services
 - Built Python based API for risk analysis
 
