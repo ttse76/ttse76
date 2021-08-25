@@ -3,7 +3,7 @@
 
 ## Experience
 
-### Zip (March 2021 - Present)
+### Zip US (March 2021 - Present)
 *Software Engineer II, Risk Decisioning*
 
 - Formerly known as Quadpay
