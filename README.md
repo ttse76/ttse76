@@ -3,7 +3,7 @@
 
 ## Experience
 
-### Zip (fka Quadpay) (March 2021 - Present)
+### Zip (*f.k.a Quadpay*) (March 2021 - Present)
 *Software Engineer II, Risk*
 
 - Team responsible for development and maintenance of risk analysis services
