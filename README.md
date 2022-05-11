@@ -1,15 +1,21 @@
 # Timothy M. Tse
+
+Software engineer with 5+ years of experience ready to make an impact!
+
 [LinkedIn](https://www.linkedin.com/in/timothy-tse-723269103/) | [My Site](https://timothymtse.com/)
 
 ## Experience
 
-### Zip US (March 2021 - Present)
+### Zip US (March 2021 - April 2022)
 *Software Engineer II, Risk Decisioning*
 
 - Formerly known as Quadpay
   - Merged August 20201
 - Team responsible for development and maintenance of risk analysis services
 - Built Python based API for risk analysis
+- Tech lead on multiple large scale projects
+  - Designed and implemented integration of an in house machine learning API
+  - Desgined and implemented ability to apply discounts and promotions to payment plans
 
 ### Datacor (September 2017 - March 2021)
 *Software Engineer, Datacor CRM*
