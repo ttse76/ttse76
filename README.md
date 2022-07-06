@@ -6,6 +6,9 @@ Software engineer with 5+ years of experience ready to make an impact!
 
 ## Experience
 
+### Viewpost (July 2022 - Present)
+*Full Stack Developer*
+
 ### Zip US (March 2021 - April 2022)
 *Software Engineer II, Risk Decisioning*
 
