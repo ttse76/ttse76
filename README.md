@@ -12,8 +12,6 @@ Software engineer with 5+ years of experience ready to make an impact!
 ### Zip US (March 2021 - April 2022)
 *Software Engineer II, Risk Decisioning*
 
-- Formerly known as Quadpay
-  - Merged August 20201
 - Team responsible for development and maintenance of risk analysis services
 - Built Python based API for risk analysis
 - Tech lead on multiple large scale projects
