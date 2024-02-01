@@ -10,7 +10,7 @@ Proficient in most major programming languages with the ability to adapt quickly
 
 Works well both in a team setting as well as an individual contributor
 
-[LinkedIn](https://www.linkedin.com/in/timothy-tse-723269103/) | [My Site](https://timothymtse.com/) | [Aviato](https://chat.openai.com/g/g-T31dS9uDV-aviato)
+[LinkedIn](https://www.linkedin.com/in/timothy-tse-723269103/) | [My Site](https://timothymtse.com/) | [Aviato](https://chat.openai.com/g/g-T31dS9uDV-aviato) | [Stable Diffusion Discord Bot](https://github.com/ttse76/stable-diffusion-discord)
 
 ## Experience
 
