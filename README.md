@@ -1,8 +1,6 @@
 # Timothy M. Tse
 
-Full stack software engineer with 8+ years of experience.
-
-Experience with both monolith and microservice environments and working both independently as well as agile sprints. 
+Full stack software engineer with 10+ years of experience specializing in transaction monitoring, risk scoring, and audit trail systems across consumer and commercial finance services.
 
 Experience in front end, back end, and full stack roles, overseeing every stage of the development cycle from initial design to deployment and maintenance
 
@@ -18,7 +16,7 @@ Works well both in a team setting as well as an individual contributor
 *Full Stack Developer*
 
 ### Zip US (March 2021 - April 2022)
-*Software Engineer II, Risk Decisioning*
+*Software Engineer II, Credit Risk*
 
 ### Datacor (September 2017 - March 2021)
 *Software Engineer, Datacor CRM*
